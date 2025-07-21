@@ -71,5 +71,5 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyanshh95&show_icons=true&theme=radical" alt="Priyanshu's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshh95&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Priyanshh95&theme=radical" alt="GitHub Streak" />
 </p>
