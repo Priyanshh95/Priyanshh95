@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-<h3 align="center">��️ Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <b>Frontend:</b>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -66,10 +66,8 @@
 
 ---
 
-<!-- Optionally add a badge section here if you have GSSOC, Holopin, or other badges -->
-
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyanshh95&show_icons=true&theme=radical" alt="Priyanshu's GitHub stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Priyanshh95&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Priyanshh95&theme=radical" alt="GitHub Streak" />
 </p>
